@@ -20,3 +20,7 @@
 - `git fetch --prune` : clean up git history in regards to hub
 - `git branch -d <NAME>` : delete branch
 
+# Conflicts
+
+- `git rebase <BRANCH>` : e.g. <main> will update current position to main branch
+
