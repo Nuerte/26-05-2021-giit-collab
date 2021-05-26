@@ -1,5 +1,8 @@
-# 26-05-2021-giit-collab
+# 26/05/2021 Git Collaboration
 - `git clone <URL>` : Downnloads repo to current directory
+
+# Branches
+
 - `git branch <NAME>` : Creates new branch with <NAME> 
 - `git branch -a` : lists all braches
 - `git branch -d <NAME>` : deletes the brannch <NAME>
@@ -11,6 +14,13 @@
     - `git checkout -b <NAME>`: same but using checkout
 
 - `git log --oneline --graph --all` : show you giit history
+
+# Pull requests
+
 - `git fetch --prune` : clean up git history in regards to hub
 - `git branch -d <NAME>` : delete branch
+
+# Conflicts
+
+- `git rebase <BRANCH>` : e.g. <main> will update current position to main branch
 
