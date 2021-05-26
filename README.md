@@ -1,7 +1,7 @@
 # 26/05/2021 Git Collaboration
 - `git clone <URL>` : Downnloads repo to current directory
 
-# Branches
+## Branches
 
 - `git branch <NAME>` : Creates new branch with <NAME> 
 - `git branch -a` : lists all braches
@@ -15,12 +15,12 @@
 
 - `git log --oneline --graph --all` : show you giit history
 
-# Pull requests
+## Pull requests
 
+- Also see branch delete above
 - `git fetch --prune` : clean up git history in regards to hub
 - `git branch -d <NAME>` : delete branch
 
-# Conflicts
+## Conflicts
 
 - `git rebase <BRANCH>` : e.g. <main> will update current position to main branch
-
