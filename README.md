@@ -8,3 +8,7 @@
 - `git switch -c <NAME>` : create and swithc to branchj 1 command
     - `git checkout -b <NAME>`: same but using checkout
 
+- `git log --oneline --graph --all` : show you giit history
+- `git fetch --prune` : clean up git history in regards to hub
+- `git branch -d <NAME>` : delete branch
+
